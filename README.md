@@ -1,2 +1,2 @@
 # SetupSample
-サンプル
+vi編集テストサンプル
